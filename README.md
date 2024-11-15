@@ -8,4 +8,5 @@
 ## Easy Installation :
 ```bash
 1. pkg update && pkg upgrade -y
-2. `pkg install python -y`
+```bash
+2. pkg install python -y
