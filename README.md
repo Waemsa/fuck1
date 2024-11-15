@@ -1,4 +1,3 @@
 # install
-
-
-``` pkg update && pkg upgrade -y
+```bash
+pkg update && pkg upgrade -y
