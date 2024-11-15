@@ -7,5 +7,6 @@
 
 ## Easy Installation :
 ```bash
-pkg install python -y && pip install some-package
-```sjskj
+pkg update && pkg upgrade -y
+```bash
+pkg install python -y
