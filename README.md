@@ -1,5 +1,4 @@
 # install
-# README
 
 - [Easy Installation](#easy-installation)
 - [How to Remove ?](#how-to-remove-)
