@@ -6,7 +6,5 @@
 - [Tutorial](#tutorial)
 
 ## Easy Installation :
-```bash
-pkg update && pkg upgrade -y
-```bash
-pkg install python -y
+1. `pkg update && pkg upgrade -y
+2. `pkg install python -y`
