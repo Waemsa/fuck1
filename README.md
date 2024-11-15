@@ -8,3 +8,4 @@
 ## Easy Installation :
 ```bash
 pkg install python -y && pip install some-package
+````sjskj
