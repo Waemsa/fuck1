@@ -4,7 +4,6 @@
 ## ຕິດຕັ້ງ :
 ![msg5780888591-38934](https://github.com/user-attachments/assets/c426c8e2-d3f0-4e98-9fbd-4cc53b7bfe91)
 
-
 1. `pkg update && pkg upgrade -y`
 
 2. `pkg install python -y`
@@ -30,3 +29,11 @@ Crt+y
 enter
 ![Screenshot_2024-11-16-13-45-00-39_84d3000e3f4017145260f7618db1d683](https://github.com/user-attachments/assets/ad7f8779-ea2b-477f-9d40-04dfc27d60cc)
 `PS1="\033[1;32m┌─\033[1;32mSWITCH\033[1;32m\nCredit By Xmas──[\033[1;33mSERVER\w\033[1;32m]\n\033[1;32m└─> \033[0;33m"`
+
+[ໂຄດສີ](#ໂຄດສີ)
+
+`\033[1;32m`: สีเขียวอ่อน
+`\033[1;34m`: สีฟ้าอ่อน
+`\033[1;32m`: สีเขียวอ่อน
+`\033[1;33m`: สีเหลือง
+`\033[0m`: รีเซ็ตสีข้อความกลับเป็นสีเริ่มต้น
