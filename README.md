@@ -22,3 +22,9 @@
 ເພື່ອສູ່ຫນ້າຫລກ
 
 ![Screenshot_2024-11-15-16-26-14-36_84d3000e3f4017145260f7618db1d683](https://github.com/user-attachments/assets/35a7dc3c-5831-4ce6-9217-1e8bb55e8a34)
+# ການເຮັດສີ້ຫນ້າຫລັກ TERMUX
+`nano ~/.bashrc`
+![Screenshot_2024-11-16-13-11-10-94_84d3000e3f4017145260f7618db1d683](https://github.com/user-attachments/assets/4699703a-846b-4635-86f1-3c1830a23209)
+code `PS1="\033[1;32m┌─\033[1;32mreno\033[1;32mhack──\033[1;33m\w\033[1;32m]\n└─> \033[0m"`
+Crt+y
+enter
