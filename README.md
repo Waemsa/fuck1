@@ -28,3 +28,5 @@
 code `PS1="\033[1;32m┌─\033[1;32mreno\033[1;32mhack──\033[1;33m\w\033[1;32m]\n└─> \033[0m"`
 Crt+y
 enter
+![Screenshot_2024-11-16-13-45-00-39_84d3000e3f4017145260f7618db1d683](https://github.com/user-attachments/assets/ad7f8779-ea2b-477f-9d40-04dfc27d60cc)
+`PS1="\033[1;32m┌─\033[1;32mSWITCH\033[1;32m\nCredit By Xmas──[\033[1;33mSERVER\w\033[1;32m]\n\033[1;32m└─> \033[0;33m"`
